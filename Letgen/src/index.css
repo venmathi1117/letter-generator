@@ -1,0 +1,16 @@
+
+body {
+  background-color: #f0f0f0;
+  color: #363636; 
+}
+
+.box {
+  background-color: white;
+  color: #363636;
+}
+
+.input {
+  background-color: white;
+  color: #363636;
+  border-color: #ccc; /* Light gray border */
+}
